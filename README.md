@@ -6,4 +6,4 @@ This repository contains the files for my UOL CM 3070 Final Project submission.
 
 It includes:
   - Code for the Machine Learning model as a ipynb file, titled: "Implementation - Predicting Kickstarter campaign state"
-  - A pdf of the Project Report titled: "CM3070_FinalReport"
+  - The dataset used to build the model, retrieved from Kaggle.com, titled: "kickstarter_projects.csv"
