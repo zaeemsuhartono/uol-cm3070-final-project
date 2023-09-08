@@ -2,8 +2,8 @@
 
 Final Project files
 
-This project contains the files for my UOL CM 3070 Final Project submission.
+This repository contains the files for my UOL CM 3070 Final Project submission.
 
 It includes:
-  - ipynb file of the Machine Learning model, titled: "Implementation - Predicting Kickstarter campaign state"
+  - Code for the Machine Learning model as a ipynb file, titled: "Implementation - Predicting Kickstarter campaign state"
   - A pdf of the Project Report titled: "CM3070_FinalReport"
